@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+    <line>
+      <![CDATA[On Start Listner: Test Group Name = Selenium Testing
+]]>
+    </line>
+    <line>
+      <![CDATA[Before Method]]>
+    </line>
+    <line>
+      <![CDATA[On Start Listner: Test Group Name = Selenium Testing
+]]>
+    </line>
+    <line>
+      <![CDATA[Before Method]]>
+    </line>
+    <line>
+      <![CDATA[On Test Start Listner: Begining Test name : flightcancel started execution]]>
+    </line>
+    <line>
+      <![CDATA[On Test Start Listner: Begining Test name : DirectEnergy_test001 started execution]]>
+    </line>
+    <line>
+      <![CDATA[On Test Success Listner: Test Name : DirectEnergy_test001 Passed successfully]]>
+    </line>
+    <line>
+      <![CDATA[After Method]]>
+    </line>
+    <line>
+      <![CDATA[Before Method]]>
+    </line>
+    <line>
+      <![CDATA[On Test Start Listner: Begining Test name : LestKodeIt_Test001 started execution]]>
+    </line>
+    <line>
+      <![CDATA[On Test Success Listner: Test Name : flightcancel Passed successfully]]>
+    </line>
+    <line>
+      <![CDATA[After Method]]>
+    </line>
+    <line>
+      <![CDATA[On Test Success Listner: Test Name : LestKodeIt_Test001 Passed successfully]]>
+    </line>
+    <line>
+      <![CDATA[After Method]]>
+    </line>
+    <line>
+      <![CDATA[Before Method]]>
+    </line>
+    <line>
+      <![CDATA[On Test Start Listner: Begining Test name : LestKodeIt_Test002 started execution]]>
+    </line>
+    <line>
+      <![CDATA[On Test Success Listner: Test Name : LestKodeIt_Test002 Passed successfully]]>
+    </line>
+    <line>
+      <![CDATA[After Method]]>
+    </line>
+    <line>
+      <![CDATA[Before Method]]>
+    </line>
+    <line>
+      <![CDATA[On Test Start Listner: Begining Test name : LestKodeIt_Test004 started execution]]>
+    </line>
+    <line>
+      <![CDATA[On Test Success Listner: Test Name : LestKodeIt_Test004 Passed successfully]]>
+    </line>
+    <line>
+      <![CDATA[After Method]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="42041" started-at="2017-11-12T04:31:12Z" finished-at="2017-11-12T04:31:54Z">
+    <groups>
+    </groups>
+    <test name="Selenium Testing" duration-ms="42041" started-at="2017-11-12T04:31:12Z" finished-at="2017-11-12T04:31:54Z">
+      <class name="tests.PageNavigationTest">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:tests.PageNavigationTest@57baeedf]" name="beforeMethod" is-config="true" duration-ms="1092" started-at="2017-11-12T15:31:12Z" finished-at="2017-11-12T15:31:13Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Before Method]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="DirectEnergy_test001()[pri:0, instance:tests.PageNavigationTest@57baeedf]" name="DirectEnergy_test001" duration-ms="5020" started-at="2017-11-12T15:31:13Z" finished-at="2017-11-12T15:31:18Z">
+          <reporter-output>
+            <line>
+              <![CDATA[On Test Start Listner: Begining Test name : DirectEnergy_test001 started execution]]>
+            </line>
+            <line>
+              <![CDATA[On Test Success Listner: Test Name : DirectEnergy_test001 Passed successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- DirectEnergy_test001 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:tests.PageNavigationTest@57baeedf]" name="afterMethod" is-config="true" duration-ms="73" started-at="2017-11-12T15:31:18Z" finished-at="2017-11-12T15:31:18Z">
+          <reporter-output>
+            <line>
+              <![CDATA[After Method]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:tests.PageNavigationTest@57baeedf]" name="beforeMethod" is-config="true" duration-ms="594" started-at="2017-11-12T15:31:18Z" finished-at="2017-11-12T15:31:19Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Before Method]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="LestKodeIt_Test001()[pri:0, instance:tests.PageNavigationTest@57baeedf]" name="LestKodeIt_Test001" duration-ms="13865" started-at="2017-11-12T15:31:19Z" finished-at="2017-11-12T15:31:33Z">
+          <reporter-output>
+            <line>
+              <![CDATA[On Test Start Listner: Begining Test name : LestKodeIt_Test001 started execution]]>
+            </line>
+            <line>
+              <![CDATA[On Test Success Listner: Test Name : LestKodeIt_Test001 Passed successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- LestKodeIt_Test001 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:tests.PageNavigationTest@57baeedf]" name="afterMethod" is-config="true" duration-ms="74" started-at="2017-11-12T15:31:33Z" finished-at="2017-11-12T15:31:33Z">
+          <reporter-output>
+            <line>
+              <![CDATA[After Method]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:tests.PageNavigationTest@57baeedf]" name="beforeMethod" is-config="true" duration-ms="556" started-at="2017-11-12T15:31:33Z" finished-at="2017-11-12T15:31:33Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Before Method]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="LestKodeIt_Test002()[pri:0, instance:tests.PageNavigationTest@57baeedf]" name="LestKodeIt_Test002" duration-ms="3273" started-at="2017-11-12T15:31:33Z" finished-at="2017-11-12T15:31:36Z">
+          <reporter-output>
+            <line>
+              <![CDATA[On Test Start Listner: Begining Test name : LestKodeIt_Test002 started execution]]>
+            </line>
+            <line>
+              <![CDATA[On Test Success Listner: Test Name : LestKodeIt_Test002 Passed successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- LestKodeIt_Test002 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:tests.PageNavigationTest@57baeedf]" name="afterMethod" is-config="true" duration-ms="73" started-at="2017-11-12T15:31:36Z" finished-at="2017-11-12T15:31:37Z">
+          <reporter-output>
+            <line>
+              <![CDATA[After Method]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:tests.PageNavigationTest@57baeedf]" name="beforeMethod" is-config="true" duration-ms="564" started-at="2017-11-12T15:31:37Z" finished-at="2017-11-12T15:31:37Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Before Method]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="LestKodeIt_Test004()[pri:0, instance:tests.PageNavigationTest@57baeedf]" name="LestKodeIt_Test004" duration-ms="16762" started-at="2017-11-12T15:31:37Z" finished-at="2017-11-12T15:31:54Z">
+          <reporter-output>
+            <line>
+              <![CDATA[On Test Start Listner: Begining Test name : LestKodeIt_Test004 started execution]]>
+            </line>
+            <line>
+              <![CDATA[On Test Success Listner: Test Name : LestKodeIt_Test004 Passed successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- LestKodeIt_Test004 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:tests.PageNavigationTest@57baeedf]" name="afterMethod" is-config="true" duration-ms="71" started-at="2017-11-12T15:31:54Z" finished-at="2017-11-12T15:31:54Z">
+          <reporter-output>
+            <line>
+              <![CDATA[After Method]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- tests.PageNavigationTest -->
+      <class name="tests.GoogleSearchFlightBookingTest">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:tests.GoogleSearchFlightBookingTest@42e26948]" name="beforeMethod" is-config="true" duration-ms="1078" started-at="2017-11-12T15:31:12Z" finished-at="2017-11-12T15:31:13Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Before Method]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="flightcancel()[pri:0, instance:tests.GoogleSearchFlightBookingTest@42e26948]" name="flightcancel" duration-ms="9198" started-at="2017-11-12T15:31:13Z" finished-at="2017-11-12T15:31:22Z">
+          <reporter-output>
+            <line>
+              <![CDATA[On Test Start Listner: Begining Test name : flightcancel started execution]]>
+            </line>
+            <line>
+              <![CDATA[On Test Success Listner: Test Name : flightcancel Passed successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- flightcancel -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:tests.GoogleSearchFlightBookingTest@42e26948]" name="afterMethod" is-config="true" duration-ms="72" started-at="2017-11-12T15:31:22Z" finished-at="2017-11-12T15:31:22Z">
+          <reporter-output>
+            <line>
+              <![CDATA[After Method]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- tests.GoogleSearchFlightBookingTest -->
+    </test> <!-- Selenium Testing -->
+  </suite> <!-- Suite -->
+</testng-results>

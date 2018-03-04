@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="2" guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Suite]" parallel="classes">
+  <listeners>
+    <listener class-name="pages.BaseSetup"/>
+  </listeners>
+  <test name="Selenium Testing(failed)" parallel="classes">
+    <classes>
+      <class name="tests.GoogleSearchFlightBookingTest">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="beforeClass"/>
+          <include name="afterMethod"/>
+          <include name="flightbooking"/>
+          <include name="beforeSuite"/>
+          <include name="afterSuite"/>
+          <include name="afterClass"/>
+          <include name="flightbookingFactory"/>
+          <include name="beforeTest"/>
+          <include name="afterTest"/>
+        </methods>
+      </class> <!-- tests.GoogleSearchFlightBookingTest -->
+    </classes>
+  </test> <!-- Selenium Testing(failed) -->
+</suite> <!-- Failed suite [Suite] -->
